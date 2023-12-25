@@ -27,3 +27,7 @@ data_dict = {
 }
 df = pd.DataFrame(data_dict)
 df.to_csv("squirrel fur counts.csv")
+
+
+def hello():
+    pass
